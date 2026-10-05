@@ -1,0 +1,79 @@
+.titre {
+  text-align: center;
+  color: purple;
+  font-family: "Comic Sans MS";
+  font-size: 64px;
+  font-weight: 900;
+}
+.soldes {
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: green;
+  background-color: lightblue;
+  font-size: 32px;
+  font-family: "Comic Sans MS";
+  font-weight: 900;
+}
+.soldes:hover {
+  background-color: purple;
+}
+.retour-soldes {
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: black;
+  background-color: red;
+  font-size: 16px;
+  font-family: "Comic Sans MS";
+  font-weight: 900;
+}
+.retour-soldes:hover {
+  background-color: green;
+}
+.projets {
+    padding: 10px 20px;
+  border-radius: 10px;
+  color: green;
+  background-color: lightblue;
+  font-size: 32px;
+  font-family: "Comic Sans MS";
+  font-weight: 900;
+}
+.projets:hover {
+    background-color: purple;
+}
+.retour-projets {
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: black;
+  background-color: red;
+  font-size: 16px;
+  font-family: "Comic Sans MS";
+  font-weight: 900;
+}
+.retour-projets:hover {
+  background-color: green;
+}
+.sources {
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: green;
+    background-color: lightblue;
+    font-size: 32px;
+    font-family: "Comic Sans MS";
+    font-weight: 900;
+}
+.sources:hover {
+    background-color: purple;
+}
+.retour-sources {
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: black;
+    background-color: red;
+    font-size: 16px;
+    font-family: "Comic Sans MS";
+    font-weight: 900;
+}
+.retour-sources:hover {
+    background-color: green;
+}
